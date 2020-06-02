@@ -8,5 +8,5 @@ Repositório do projeto da *NextLevelWeek*, iniciado hoje dia **01/06** com tér
 **LAYOUT INICIAL DO PRIMEIRO DIA:**
 
 <div align="center">
-    <img src="/assets/dia1.png" alt="Screenshot" width="600px" height="600px"></img>
+    <img src="/assets/dia1.png" alt="Screenshot" width="550px"height="400px"></img>
 </div>
